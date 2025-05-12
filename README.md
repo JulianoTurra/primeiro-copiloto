@@ -60,13 +60,13 @@ imagens/
 ├── dio-viagens-dev-ambient-com-ia.png
 ├── dio-viagens-dev-ambient-em-branco.png
 
-Ambiente Default
+Ambiente Default (Copiloto baseado em modelo)
 ![Default](imagens/dio-viagens-default-ambient.png)
 
-Ambiente Dev
+Ambiente Dev (Copiloto baseado em descrição com IA)
 ![Dev](imagens/dio-viagens-dev-ambient-com-ia.png)
 
-Ambiente Dev
+Ambiente Dev (Copiloto em branco)
 ![Dev](imagens/dio-viagens-dev-ambient-em-branco.png)
 
 ## Contato
